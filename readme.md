@@ -23,9 +23,4 @@ git push -u origin master
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-
-
-git remote add origin https://github.com/miketester1/nauka_gita
-
-git push origin master
-
+test pull
